@@ -41,7 +41,7 @@ I believe precise description is crucial for scientific progress. Computational 
 ## Computational Social Science
 Utilizing modern tools and data is essential for gaining higher ecological validity in research. With the popularization of social media, ignoring virtual interactions is unwise.
 # Seeking Opportunities
-I am applying for PhD programs and also interested in RA positions. If you are a PI, please feel free to contact me! Here is my [CV](L.-Y. M. CV.pdf)
+I am applying for PhD programs and also interested in RA positions. If you are a PI, please feel free to contact me! Here is my [CV](https://github.com/Lingyu-Meng/Lingyu-Meng/blob/44f11ec4d67c45a539e49c08fb444482b7ccbb66/L.-Y.%20M.%20CV.pdf)
 
 I am also a proponent of science communication. If you are a student or non-technical individual, you are welcome to contact me for discussions about my research and proposals or potential collaboration opportunities!
 
