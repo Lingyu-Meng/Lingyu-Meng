@@ -32,6 +32,7 @@ To address the questions above, I aim to employ multiple methods, including but 
 - Neuroimaging
 - Computational modeling
 - Computational social science
+- Brain stimulation
 ## Economic Games
 Economists have developed various games for modeling human interactions, such as Prisoner's Dilemma, Public Goods Games, and Ultimatum Games. I am familiar with these dilemmas and believe their utilization can yield high-quality research outcomes in social decision-making.
 ## Neuroimaging
@@ -39,7 +40,9 @@ As the primary method for human neuroscience research, neuroimaging is a natural
 ## Computational Modeling
 I believe precise description is crucial for scientific progress. Computational modeling allows for accurate, elegant, and standardized promotion of research in the field of social psychology and neuroscience.
 ## Computational Social Science
-Utilizing modern tools and data is essential for gaining higher ecological validity in research. With the popularization of social media, ignoring virtual interactions is unwise.
+Utilizing modern tools and data is essential for gaining higher ecological validity in research. With the popularization of social media, ignoring online interactions is unwise.
+## Brain stimulation
+Non-invasive brain stimulation techniques give us a unique opportunity to investigate the causal relationship between brain regions and cognitive processes. I have read some papers about tACS, tDCS, and TMS, and I would be pleased to have the opportunity to use them, along with other stimulation techniques like tFUS and DBS.
 # Seeking Opportunities
 I am applying for PhD programs and also interested in RA positions. If you are a PI, please feel free to contact me! Here is my [CV](L.-Y._M._CV.pdf)
 
